@@ -1,6 +1,0 @@
-HTTP/1.1 204 No Content
-Request-Id: f2ab4f88-46e2-11e8-9cda-000000000000
-X-Influxdb-Version: 0.9.6.1
-Date: Mon, 23 Apr 2018 10:41:58 GMT
-
-204
